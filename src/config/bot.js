@@ -21,13 +21,13 @@ export const botConfig = {
     // 2 = Listening
     // 3 = Watching
     // 4 = Custom
-    // 5 = Competing
+    // 5 = Codeing
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "It's DevOps Delta",
         // Activity type number (0 = Playing).
-        type: 0, 
+        type: 5, 
       },
     ],
   },
